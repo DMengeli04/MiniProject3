@@ -1,0 +1,6 @@
+Field,PercentAgree_Pre,PercentAgree_Post,CohenKappa_Pre,CohenKappa_Post,NumDisagreements,NumResolved,Notes
+HasRecovered,80.0,NA,0.444,NA,2,0,Two disputes about whether isolated documentation/CI commits demonstrate recovery; adjudication awaiting Camden.
+WhyRecovered,0.0,NA,NA,NA,10,0,Ten explanation wording/specificity mismatches; proposed resolutions await Camden.
+ActivityPattern,100.0,NA,1.000,NA,0,0,Full agreement before discussion; no resolution needed.
+Currentstatus,100.0,NA,1.000,NA,0,0,Full agreement before discussion; no resolution needed.
+RecentThemes,0.0,NA,NA,NA,10,0,Ten differences in commit-theme coding; proposed resolutions await Camden.
