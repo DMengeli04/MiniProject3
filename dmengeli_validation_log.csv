@@ -1,4 +1,4 @@
-WOCProjectID,ProjectOwnerNetID,ValidatorNetID,Field,AuthorValue,ValidatorValue,PreDiscussAgreementstatus(Yes/No),AdjudicatedValue,KeyEvidence,Comments
+WOCProjectID,ProjectOwnerNetID,ValidatorNetID,Field,AuthorValue,ValidatorValue,PreDiscussAgreementstatus(Yes/No),AdjudicatedValue,KeyEvidence
 exascaleinfolab_vadetis,cgoering,dmengeli,HasRecovered,Yes,No,No,No,Longest gap 41 months (2021-08–2024-12); 2 commits after gap. Post-gap examples: Update README.md; Update README.md,
 facebookresearch_faiss,cgoering,dmengeli,HasRecovered,N/A,N/A,Yes,,Longest gap 1 months (2019-07–2019-07); 7411 commits after gap. Post-gap examples: Fix depend include in Makefile ; Replace Python2 on Python3 in Dockerfile ; Replace Python2 prints in test_build_blocks.py ,
 gboeing_pynamical,cgoering,dmengeli,HasRecovered,Yes,Yes,Yes,,Longest gap 34 months (2022-06–2025-03); 15 commits after gap. Post-gap examples: update date ; updates for v0.3.3 ; config ,
